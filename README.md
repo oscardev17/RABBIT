@@ -1,6 +1,6 @@
 # RABBIT 🐇
 
-In a context where cyberattacks increasingly target software and websites, securing databases is a key issue. Companies must protect sensitive information against threats such as SQL injection attacks, data leaks and unauthorized access, while ensuring optimal performance for their online services.
+In a context where cyberattacks increasingly target software and websites, securing databases is a key issue. Companies must protect sensitive information against threats such as SQL injection attacks, data leaks and unauthorized access, while ensuring optimal performance for their online services. 🐰
 
 ## Features
 
