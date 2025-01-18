@@ -49,4 +49,4 @@ if (isMaliciousIP($userIP)) {
 
 ## Prerequisites
 
-This project is currently on whitelist `5/5`, if you would like information or access to it please contact me. 👻
+This project is currently on whitelist `1/1`, if you would like information or access to it please contact me. 👻
