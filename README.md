@@ -21,6 +21,13 @@ In a context where cyberattacks increasingly target software and websites, secur
 - Number of attacks detected: **12,360**
 - Number of blocked attacks: **12,360**
 
+## Demonstration
+
+```
+Encrypted data: YzY0N2M0MTgxZTExMDE0YzA0M2M1OTAyNzZkM2I5Y2I2Y2JlY2MwNTlhM2I5MTc0YWE1ODU2NzZjZDZkM2ViYzRzaw
+Decrypted data: Hello world!
+```
+
 ## Prerequisites
 
 This project is currently on whitelist `5/5`, if you would like information or access to it please contact me. 👻
