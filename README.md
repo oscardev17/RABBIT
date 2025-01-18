@@ -41,6 +41,11 @@ if (isMaliciousIP($userIP)) {
 }
 ?>
 ```
+```
+2025-01-18 15:30:00 - Multiple Failed Logins - 192.168.1.100
+2025-01-18 15:30:02 - Suspicious Activity - 192.168.1.200
+2025-01-18 15:30:04 - Unusual Access Pattern - 203.0.113.10
+```
 
 ## Prerequisites
 
