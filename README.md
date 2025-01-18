@@ -27,6 +27,20 @@ In a context where cyberattacks increasingly target software and websites, secur
 Encrypted data: YzY0N2M0MTgxZTExMDE0YzA0M2M1OTAyNzZkM2I5Y2I2Y2JlY2MwNTlhM2I5MTc0YWE1ODU2NzZjZDZkM2ViYzRzaw
 Decrypted data: Hello world!
 ```
+```php
+$blacklist = [
+    '192.168.1.1',
+    '10.0.0.1',
+    '203.0.113.0',  // Example of a blacklist IP (reserved for documentation purposes)
+];
+
+if (isMaliciousIP($userIP)) {
+    echo "This IP is detected as malicious: $userIP";
+} else {
+    echo "This IP seems safe: $userIP";
+}
+?>
+```
 
 ## Prerequisites
 
