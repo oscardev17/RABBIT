@@ -15,7 +15,7 @@ In a context where cyberattacks increasingly target software and websites, secur
 - Secure `API`s for seamless integration into apps and websites.
 - Regular automated backups and disaster recovery plans.
 
-## Statistics:
+## Statistics
 
 - Update date: **18/01/2025**
 - Number of attacks detected: **12,360**
@@ -23,4 +23,4 @@ In a context where cyberattacks increasingly target software and websites, secur
 
 ## Prerequisites
 
-This project is currently on whitelist `5/5`, if you would like information or access to it please contact me.
+This project is currently on whitelist `5/5`, if you would like information or access to it please contact me. 👻
