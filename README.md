@@ -17,9 +17,9 @@ In a context where cyberattacks increasingly target software and websites, secur
 
 ## Statistics
 
-- Update date: **18/01/2025**
-- Number of attacks detected: **12,360**
-- Number of blocked attacks: **12,360**
+- Update date: **21/01/2025**
+- Number of attacks detected: **542,160**
+- Number of blocked attacks: **542,160**
 
 ## Demonstration
 
